@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365527064675",
+    "firebase_url": "https://boardgamecompanion-472f7.firebaseio.com",
+    "project_id": "boardgamecompanion-472f7",
+    "storage_bucket": "boardgamecompanion-472f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365527064675:android:fc037c2454c64fc7",
+        "android_client_info": {
+          "package_name": "com.idev4droid.board_game_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365527064675-6o7a1qbfft4iaeargodt7o8qrbkb1165.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idev4droid.board_game_companion",
+            "certificate_hash": "4ea51360549639b3c24584e6561558fe3e7cb84c"
+          }
+        },
+        {
+          "client_id": "365527064675-1nraam1lqt5hch5j4ede45b6ff115c9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_VFlmG5CeuWn1B7TfsxbMmMJ9ziyWWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365527064675-1nraam1lqt5hch5j4ede45b6ff115c9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365527064675-u1d8kaaphqn7rlj66lka7tcav6b625dp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idev4droid.boardGameCompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
